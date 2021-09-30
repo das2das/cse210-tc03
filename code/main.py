@@ -3,7 +3,7 @@ from palmer import *
 
 def main():
     print("Welcome to our collabrative program.")
-    helloFromSam()
+    helloFromSamPalmer()
 
 if __name__ == "__main__":
     main()
